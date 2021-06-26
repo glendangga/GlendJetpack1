@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GlendJetpack1</string>
+    <string name="title_activity_detail_film">Detail Film Activity</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_detail_show">Detail Show Activity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="dateline">date</string>
+    <string name="description_module">Description Film</string>
+    <string name="description">Description</string>
+    <string name="list_module">Actor</string>
+    <string name="deadline_date">Date %s</string>
+    <string name="movie">Movie</string>
+    <string name="show">TV Show</string>
+    <string name="favorite">Favorite</string>
+    <string name="reminder">Reminder</string>
+    <string name="Favmovie">Favorite Movie</string>
+    <string name="Favshow">Favorite TV Show</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="buttonFav">Favorite</string>
+    <string name="menu_bookmark">Favorite</string>
+    <string name="reminder_setting">Reminder</string>
+    <string name="daily_reminder">Your Daily Reminder</string>
+    <string name="daily_message">Lets find some movie and tv show !</string>
+    <string name="delay1">Delay 1 Selesai</string>
+</resources>
